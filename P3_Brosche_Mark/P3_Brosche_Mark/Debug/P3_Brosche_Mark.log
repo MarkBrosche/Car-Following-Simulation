@@ -1,0 +1,13 @@
+﻿  Road.cpp
+c:\users\markb\google drive\msim603\p3_brosche_mark\p3_brosche_mark\road.h(28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\markb\google drive\msim603\p3_brosche_mark\p3_brosche_mark\road.h(28): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Car.cpp
+c:\users\markb\google drive\msim603\p3_brosche_mark\p3_brosche_mark\road.h(28): error C2143: syntax error: missing ';' before '*'
+c:\users\markb\google drive\msim603\p3_brosche_mark\p3_brosche_mark\road.h(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\markb\google drive\msim603\p3_brosche_mark\p3_brosche_mark\road.h(28): error C2238: unexpected token(s) preceding ';'
+  Generating Code...
+  Compiling...
+  Main.cpp
+c:\users\markb\google drive\msim603\p3_brosche_mark\p3_brosche_mark\road.h(28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\markb\google drive\msim603\p3_brosche_mark\p3_brosche_mark\road.h(28): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Generating Code...
